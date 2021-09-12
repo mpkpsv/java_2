@@ -1,7 +1,6 @@
 public class lesson2 {
         public static void main(String[] args) {
          isNegatiive(-5);
-
         }
 
         public static boolean isSumBetween(int a, int b) {
