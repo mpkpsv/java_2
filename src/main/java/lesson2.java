@@ -10,6 +10,7 @@ public class lesson2 {
             } else {
                 return false;
             }
+
         }
 
         public static void checkPositiveOrNegative(int a) {
